@@ -1,1 +1,3 @@
-# contribution
+# 抵制 996，人人有责
+
+如果你对于运营 godie996.com 有好的想法，请[点击这里](https://github.com/godie996/contribution/issues/new)
