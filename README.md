@@ -4,4 +4,4 @@
 
 
 - [x] 支持 HTTPS，https://godie996.com/
-  原来只需要勾选 enfore https 就可以了，GitHub 好方便。
+    原来只需要勾选 enfore https 就可以了，GitHub 好方便。
